@@ -28,3 +28,6 @@ __pycache__/
 *.log
 .env
 *.bak
+
+# --- wyjatek: robots.txt to publiczny plik SEO strony, ma trafic do repo ---
+!robots.txt
